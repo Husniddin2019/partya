@@ -46,7 +46,6 @@ class _homeState extends State<home> {
               ),
               FadeAnimation(
 
-
                     "Let us find you a party for your interest",Colors.green,25
 
                   ),
